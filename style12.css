@@ -1,0 +1,15 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div
+{
+    background-color: blue;
+    color: black;
+    font-size: 40px;
+    margin: auto; /*right = left */
+
+}

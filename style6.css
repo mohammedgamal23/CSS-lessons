@@ -1,0 +1,26 @@
+div
+{
+    text-decoration: underline;
+    background-color: #ffdddd; 
+    width: 200px;
+    text-indent: 80px; /* don't start from the beginning of a line*/
+    white-space: normal;
+    overflow: hidden;
+    
+}
+div span
+{
+    text-decoration: line-through;
+    color: rgb(54, 45, 45);
+}
+
+span.cap
+{
+    text-transform: capitalize; 
+}
+span.upper
+{
+    text-transform: uppercase;
+    word-spacing: 50px;
+    letter-spacing: -2px;
+}

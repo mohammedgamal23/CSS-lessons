@@ -1,0 +1,21 @@
+body
+{
+    height: 3000px; /*to make a scroll bar*/
+    background: #DDD;
+}
+
+.fixed
+{
+    background:#FFF;
+    color: #080;
+    padding: 10px;
+    position: fixed;
+    top: 10px;
+}
+.abs
+{
+    background: #F00;
+    color: #FFF;
+    padding: 10px;
+    position: absolute;
+}

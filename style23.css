@@ -1,0 +1,5 @@
+div:after
+{
+content: "  Hello i'm here to kick your ass from CSS";
+color: blue;
+}

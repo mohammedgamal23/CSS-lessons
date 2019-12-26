@@ -1,0 +1,27 @@
+.one, .two, .three
+{
+    /*Here we put the similar charachteristics*/
+    color: azure;
+    padding: 10px;
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+
+.one
+{
+    background: #F00;
+    
+}
+
+.two
+{
+    background: #00f;
+    
+}
+
+.three
+{
+    background: #080;
+    
+}

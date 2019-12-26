@@ -1,0 +1,19 @@
+ul
+{
+    list-style-type: georgian; /*Default value is disc*/
+    list-style-position: outside;
+    /* list-style-image: url(imagename.png) */
+}
+
+ul li
+{
+    border: 1px solid #BBB;
+}
+
+
+/* on the same line*/
+/*list-style : type position image*/
+ul
+{
+    list-style: disc outside none
+}

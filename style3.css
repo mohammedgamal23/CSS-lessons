@@ -1,0 +1,27 @@
+p
+{
+    color: blueviolet;font-size: 35px
+}
+
+.one
+{
+    color: black    
+}
+
+.one
+{
+    color: aliceblue
+}
+.one
+{
+    color: bisque
+}
+#two
+{
+    font-family: 'Courier New', Courier, monospace
+}
+#two
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+<!--priority is for the last one -->

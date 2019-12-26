@@ -1,0 +1,9 @@
+div
+{
+    width: 400px;
+    padding: 10px;
+    background: #00f;
+    color: #FFF;
+    border: 5px solid #F00;
+    outline: 5px solid #080; /*outline is the same as border*/
+}

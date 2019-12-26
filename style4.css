@@ -1,0 +1,11 @@
+div
+{
+    background-color: red;
+    background-image: url('../images/fjefejf.jpg');
+    background-repeat: repeat;
+    border: 1px;
+    background-attachment: scroll;
+    background-position: center top;
+    
+
+}

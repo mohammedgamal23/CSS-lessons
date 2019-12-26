@@ -1,0 +1,25 @@
+.body
+{
+    height: 600px;
+}
+
+
+.width
+{
+    background: #AAA;
+    width: 600px;
+}
+.child
+{
+    background: #00F;
+    min-width: 10px;
+    max-width: 400px;
+}
+button
+{
+    background: black;
+    color: #00F;
+    min-width: 100px;
+    overflow: auto; /*scroll-bar added*/
+    height:150px;
+}

@@ -1,0 +1,28 @@
+p::first-letter
+{
+    font-size: 40px;
+    font-weight: bold;
+    color: #F00;
+    background: #080;
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p::first-line
+{
+    color: brown;
+    font-weight: bold;
+}
+
+body:last-child
+{
+    color: violet;
+}
+
+body::after
+{
+    content: "this is content from CSS";
+    font-weight: bold;
+    color: springgreen
+}

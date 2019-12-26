@@ -1,0 +1,9 @@
+a[target="blank"]
+{
+    color: blue;
+}
+
+a[title="testing"]
+{
+    color: #080;
+}

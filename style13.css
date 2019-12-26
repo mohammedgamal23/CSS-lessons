@@ -1,0 +1,7 @@
+div
+{
+    background: #F00;
+    color: aliceblue;
+    padding: 10px; /*10px 10px 10px 10px*/ /* هامش دددداخلي*/
+    /*مينفعش نحطله قيمه سالبه لإنه ددددداخلي*/
+}

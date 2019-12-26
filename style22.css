@@ -1,0 +1,39 @@
+.div1
+{
+    background: #F00;
+    color: aliceblue;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.div2
+{
+    background: #F05;
+    color:aliceblue;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    z-index: 2;
+}
+
+.div3
+{
+    background: #ff0099;
+    color: aliceblue;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 80px;
+    left: 80px; 
+    z-index: 3;
+}
+

@@ -1,0 +1,19 @@
+@media print
+{
+    p
+    {
+        color: red;
+        font-size: 40px;
+
+    }
+}
+
+@media screen
+{
+    p
+    {
+        color: blue;
+        font-size: 80px;
+
+    }
+}

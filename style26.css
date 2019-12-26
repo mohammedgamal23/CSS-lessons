@@ -1,0 +1,49 @@
+.parent
+{
+    background: blue;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.parent > div /*> means "direct child" */
+{
+    background: red;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.parent p
+{
+    background: green;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+.parent aside
+{
+    background: black;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+* /*means everything in the workflow*/
+{
+    border: 2px solid #222;
+}
+
+p + div /*means if the element after p is div*/
+{
+    background: #F00;
+    color: #FFF;
+    padding: 30px;
+}
+
+p ~ div /*means if the div share the same parent of p and down it*/
+{
+    background: #F00;
+    color: #FFF;
+    padding: 30px;
+}

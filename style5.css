@@ -1,0 +1,19 @@
+div
+{
+    /*Div properties*/
+    width: 300px;
+    background: #dddddd ;
+    margin: 10px 0;
+    padding: 10px;
+
+    /*Text properties*/
+    color: #F00;
+    direction: ltr;
+    line-height: 200%; /*could be in pexil or percentage*/
+    letter-spacing: normal;
+}
+
+div.ar
+{
+    direction: rtl;
+}

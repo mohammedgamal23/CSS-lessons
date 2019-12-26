@@ -1,0 +1,11 @@
+div
+{
+    background: #DDD;
+    padding: 10px;
+    margin: 10px;
+    border-width: 1px 2px 2px 1px /* up right bottom left*/;
+    border-style: solid dotted dashed double; 
+    border-color: rgb(175, 45, 45) #025c05 #00f084 #fa700e;
+    /* border: 6px dotted #F00; /* width style color*/ */ 
+    /* border-top , bottom , right , left*/
+}
